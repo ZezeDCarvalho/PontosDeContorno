@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------+ 
- |  File:.... contorno.c                                     |
+ |  File:.... pontosContorno.c                                     |
  |  Author:.. Maria José Silva de Carvalho (zezedcarvalho)   |
  |  Email:... mjsc.zeze@gmail.com                            |
  |  Created on 16 de Julho de 2017, 21:23                    |
